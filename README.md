@@ -10,17 +10,17 @@ Orbit Blog Engine is licensed, not sold.
    - The premium access is granted to authorized domains.
 
 2. Restrictions   Users CANNOT:
-Copy, modify, or distribute this software.
-  - Claim ownership or create derivative works.  
-  - Resell or sublicense this software.
+# Copy, modify, or distribute this software.
+   - Claim ownership or create derivative works.  
+   - Resell or sublicense this software.
 
 
 3. Ownership 
-  - This software remains the exclusive property of DeepOrbitAI.   
+   - This software remains the exclusive property of DeepOrbitAI.   
 
 4. Termination  
-  - Violation of this license results in immediate termination.   
+   - Violation of this license results in immediate termination.   
 
 5. No Warranty  
- - This software is provided "as-is" without warranties.
-For commercial use or special permissions, contact deeporbitai.github.io.
+   - This software is provided "as-is" without warranties.
+# For commercial use or special permissions, contact deeporbitai.github.io.
