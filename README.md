@@ -9,8 +9,6 @@
 - **Auto Media Integration:** Automatically adds images, videos, and other media from Pexels, Pixabay, and YouTube.
 - **Auto Posting to WordPress:** Posts the content directly to your WordPress site with no extra steps.
 
-
-
 ## License Agreement
 
 ### Last Updated: 2025
@@ -48,16 +46,18 @@ If anything goes wrong with the software, we aren’t responsible for damages li
 
 Got questions or need help? You can reach us at deeporbitai.github.io.
 
-
 ## Contributing
 
-Want to help improve Orbit-Blog-Engine? Feel free to fork the repo and submit pull requests. If you're planning a big change, just let us know first by opening an issue.
+If you'd like to help improve **Orbit-Blog-Engine**, you can support us in two ways:
 
+- **Donate:** If you love the tool and want to support its development, feel free to donate to keep it going. Every contribution helps!
+- **Join the Team:** If you're a developer and want to contribute code or join the team, we'd love to have you! Fork the repo, submit pull requests, or open an issue if you have ideas or want to discuss major changes.
+
+We’re always looking for passionate people to help make **DeepOrbitAI** even better! 
 
 ## License
 
 This software is licensed under **DeepOrbitAI Proprietary License (DOAI-PL) v1.1**.
-
 
 ## Contact
 
