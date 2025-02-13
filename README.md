@@ -62,3 +62,6 @@ This software is licensed under **DeepOrbitAI Proprietary License (DOAI-PL) v1.1
 ## Contact
 
 For any questions, suggestions, or issues, just reach out to us at deeporbitai.github.io/contact.
+
+## Try It Free
+https://docs.google.com/spreadsheets/d/1d4LmoFg6ilnS2uDgbNOz1u-6UvifbNciVaO7gl_B1Co/copy
