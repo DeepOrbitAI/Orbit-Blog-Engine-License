@@ -1,67 +1,64 @@
-# Orbit-Blog-Engine
+# Orbit-Blog-Engine  
 
-**Orbit-Blog-Engine** is a tool that automatically creates blog posts for you. It pulls keywords from Google Sheets, generates unique content with AI, and formats it using customizable HTML templates. The tool automatically adds images, videos, and other media from sources like Pexels, Pixabay, and YouTube. Once everything is ready, it automatically posts the content directly to your WordPress site.
+**Orbit-Blog-Engine** is an AI-powered tool that automates blog post creation. It extracts keywords from Google Sheets, generates unique content using AI, and formats it with customizable HTML templates. The tool also integrates images, videos, and other media from Pexels, Pixabay, and YouTube. Once finalized, it automatically publishes content to your WordPress site.  
 
-## Features
+## Features  
 
-- **AI-Powered Content Creation:** Automatically generates blog posts using keywords from Google Sheets.
-- **Custom HTML Templates:** Formats posts automatically with customizable HTML templates.
-- **Auto Media Integration:** Automatically adds images, videos, and other media from Pexels, Pixabay, and YouTube.
-- **Auto Posting to WordPress:** Posts the content directly to your WordPress site with no extra steps.
+- **AI-Powered Content Creation** – Generates high-quality blog posts from Google Sheets keywords.  
+- **Custom HTML Templates** – Formats content automatically with customizable HTML templates.  
+- **Auto Media Integration** – Fetches relevant images and videos from Pexels, Pixabay, and YouTube.  
+- **Auto Posting to WordPress** – Seamlessly publishes content to your WordPress site.  
 
-## License Agreement
+## Usage Policy  
 
-### Last Updated: 2025
+### Last Updated: 2025  
 
-This is a legal agreement between you and **DeepOrbitAI** that covers how you can use the **Orbit-Blog-Engine** software.
+Orbit-Blog-Engine is a proprietary tool developed by **DeepOrbit**. It is not publicly licensed; instead, its use is restricted based on the version.  
 
-### 1. What You Can Do
+### 1. Permitted Use  
 
-- **Free Version (Personal Use):** Use it for personal, non-commercial blogs.
-- **Premium Version (Commercial Use):** Use it for business or any commercial purposes, but only on approved domains.
+- **Free Version (Personal Use):** Available for personal, non-commercial blogs.  
+- **Premium Version (Commercial Use):** Requires verification and approval for use on business or commercial domains.  
 
-### 2. What You Can’t Do
+### 2. Domain Verification (Premium Only)  
 
-- **No Copying or Sharing:** Don’t share, sell, or distribute the software.
-- **No Modifying the Code:** You can’t change the software’s code or design.
-- **No Circumventing Security:** Don’t try to hack or disable security features.
+- The premium version will only function on approved domains.  
+- Users must request domain verification through DeepOrbit.  
+- Unauthorized use on unverified domains is not permitted.  
 
-### 3. Ownership
+### 3. Restrictions  
 
-We (DeepOrbitAI) own the software. You don’t get ownership rights—just a license to use it.
+- **No Redistribution:** You may not share, sell, or distribute the software.  
+- **No Code Modifications:** The software’s code and design must remain unaltered.  
+- **No Security Bypass:** Any attempts to hack, modify, or bypass security features are strictly prohibited.  
 
-### 4. Termination
+### 4. Ownership  
 
-If you break the rules, we can end your access to the software.
+The software remains the exclusive property of **DeepOrbit**. Users are granted access only for verified domains in the premium version, with no transfer of ownership.  
 
-### 5. No Warranty
+### 5. Termination  
 
-The software is provided "as-is." We don’t promise it’ll be perfect, so you use it at your own risk.
+Failure to comply with these terms may result in termination of access.  
 
-### 6. Limitation of Liability
+### 6. Disclaimer of Warranty  
 
-If anything goes wrong with the software, we aren’t responsible for damages like loss of data or profits.
+This software is provided "as-is" with no guarantees. Bugs and issues may exist, as it is a side project and not a full-scale production tool. Users assume all associated risks.  
 
-### 7. Contact Us
+### 7. Limitation of Liability  
 
-Got questions or need help? You can reach us at deeporbitai.github.io.
+DeepOrbit is not liable for any data loss, damages, or other issues resulting from the use of this software.  
 
-## Contributing
+### 8. Contact  
 
-If you'd like to help improve **Orbit-Blog-Engine**, you can support us in two ways:
+For support and domain verification requests, visit [deeporbitai.github.io](https://deeporbitai.github.io).  
 
-- **Donate:** If you love the tool and want to support its development, feel free to donate to keep it going. Every contribution helps!
-- **Join the Team:** If you're a developer and want to contribute code or join the team, we'd love to have you! Fork the repo, submit pull requests, or open an issue if you have ideas or want to discuss major changes.
+## Contributing  
 
-We’re always looking for passionate people to help make **DeepOrbitAI** even better! 
+Orbit-Blog-Engine is a side project by **DeepOrbit**. If you'd like to contribute, you can:  
 
-## License
+- **Donate** – Support ongoing development.  
+- **Join the Team** – Developers are welcome to fork the repository, submit pull requests, and open issues for discussions.  
 
-This software is licensed under **DeepOrbitAI Proprietary License (DOAI-PL) v1.1**.
+## Try It Free  
 
-## Contact
-
-For any questions, suggestions, or issues, just reach out to us at deeporbitai.github.io/contact.
-
-## Try It Free
-https://docs.google.com/spreadsheets/d/1d4LmoFg6ilnS2uDgbNOz1u-6UvifbNciVaO7gl_B1Co/copy
+[![Try It Free](https://img.shields.io/badge/Try%20It%20Free-Google%20Sheets-blue)](https://docs.google.com/spreadsheets/d/1d4LmoFg6ilnS2uDgbNOz1u-6UvifbNciVaO7gl_B1Co/copy)  
